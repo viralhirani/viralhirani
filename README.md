@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viralhirani
+- 👋 Hi, I’m Viral Hirani! 
 - 👀 I’m interested in Software design-developement, C++, Python, KDB Q, Fintech and all that can make things efficient!
 - 🌱 I’m currently learning about life and programming 
 - 💞️ I’m looking to collaborate on Fintech project, low-latency C++ programming
